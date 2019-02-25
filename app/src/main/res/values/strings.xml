@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Olá Mundo</string>
+    <string name="dica_mensagem">Digite uma mmensagem</string>
+    <string name="ok">OK</string>
+</resources>
